@@ -1,0 +1,30 @@
+[
+  {
+    "invoiceNumber": 1,
+    "clientName": "Esther Howard",
+    "date": "10/10/2024",
+    "amount": 100,
+    "status": "Paid"
+  },
+  {
+    "invoiceNumber": 2,
+    "clientName": "Floyd Miles",
+    "date": "4/10/2024",
+    "amount": 200,
+    "status": "Paid"
+  },
+  {
+    "invoiceNumber": 3,
+    "clientName": "Jacob Jones",
+    "date": "20/10/2024",
+    "amount": 300,
+    "status": "Paid"
+  },
+  {
+    "invoiceNumber": 4,
+    "clientName": "Devon Lane",
+    "date": "24/10/2024",
+    "amount": 400,
+    "status": "Paid"
+  }
+]

@@ -1,0 +1,14 @@
+.bg-container {
+  min-height: calc(100vh - 72px);
+  background-color: #e0effd;
+}
+
+.invoice-container {
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.invoice-items {
+  width: 100%;
+  display: block;
+}
